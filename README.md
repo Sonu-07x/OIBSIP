@@ -1,2 +1,2 @@
-# OIBSIP
-internship
+SIMPLE PROJECTS USING JAVA 
+
